@@ -1,0 +1,2 @@
+thumbor
+wikimedia_thumbor_base_engine
